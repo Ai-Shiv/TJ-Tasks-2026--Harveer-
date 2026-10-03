@@ -22,4 +22,4 @@ This is a top-down survival game where the player must survive against continuou
     Add a wave system with increasing difficulty.
 
 
-<video controls src="Recording 2026-09-30 204256-1.mp4" title="Game Demo video"></video>
+[<video controls src="Recording 2026-09-30 204256-1.mp4" title="Game Demo video"></video>](https://github.com/Ai-Shiv/TJ-Tasks-2026--Harveer-/blob/639d04e7163ad7a0843e9fc13a3a36a13e333cc4/Recording%202026-09-30%20204256.mp4)
