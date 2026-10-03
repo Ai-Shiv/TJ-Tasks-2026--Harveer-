@@ -282,3 +282,5 @@ Assets/
 ## Future Extensions
 
 Possible extensions include more enemy types, additional weapons, stronger visual effects, particle effects, screen shake, more detailed animations, obstacles/arena layouts, power-ups, and more advanced wave patterns.
+
+DEMO VIDEO- Recording 2026-09-30 204256.mp4
