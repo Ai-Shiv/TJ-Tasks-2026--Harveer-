@@ -1,9 +1,6 @@
 # TJ-Tasks-2026--Harveer-
 This Repo is for TJ Interview 2026!
 
-This is a top-down survival game where the player must survive against continuously spawning enemies for as long as possible.
-✅ 
-
 # Top-Down Survival Game
 
 A simple 2D top-down survival game made in Unity. The objective is to survive against continuously spawning enemies for as long as possible while defeating enemies to increase the score.
